@@ -1,0 +1,10 @@
+{
+  message: 'Logger fatal.',
+  level: 'fatal',
+  timestamp: '2024-02-16T07:10:32.082Z'
+}
+{
+  message: 'Logger error.',
+  level: 'error',
+  timestamp: '2024-02-16T07:10:32.085Z'
+}
